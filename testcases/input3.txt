@@ -1,0 +1,4 @@
+3
+DEQUEUE
+UNDO
+PEEK

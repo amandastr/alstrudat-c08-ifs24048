@@ -1,0 +1,4 @@
+Dilayani: Tono (Prioritas: 1)
+Dilayani: Rudi (Prioritas: 2)
+UNDO: Rudi dikembalikan ke antrian
+Berikutnya: Rudi (Prioritas: 2)

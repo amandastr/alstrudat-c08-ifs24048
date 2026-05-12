@@ -5,5 +5,5 @@ UNDO: Tono dikembalikan ke antrian IGD
 Berikutnya [REG]: Sari (Prioritas: 2)
 Total dilayani: 3
 Rata-rata prioritas: 1.33
-Pasien IGD dilayani: 2
-Pasien Reguler dilayani: 1  
+Pasien IGD dilayani: 3
+Pasien Reguler dilayani: 0

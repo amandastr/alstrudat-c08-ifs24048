@@ -14,16 +14,22 @@ public class App {
             String[] parts = line.split(" ");
             String command = parts[0];
 
-            if (command.equals("ENQUEUE")) {
+            if (command.equals("ENQUEUE_IGD")) {
                 String nama = parts[1];
                 int prioritas = Integer.parseInt(parts[2]);
-                program.enqueue(nama, prioritas);
-            } else if (command.equals("DEQUEUE")) {
-                program.dequeue();
+                program.enqueueIGD(nama, prioritas);
+            } else if (command.equals("ENQUEUE_REG")) {
+                String nama = parts[1];
+                int prioritas = Integer.parseInt(parts[2]);
+                program.enqueueReg(nama, prioritas);
+            } else if (command.equals("SERVE")) {
+                program.serve();
             } else if (command.equals("UNDO")) {
                 program.undo();
             } else if (command.equals("PEEK")) {
                 program.peek();
+            } else if (command.equals("STATS")) {
+                program.stats();
             }
         }
 

@@ -1,3 +1,7 @@
-Antrian kosong
+Semua antrian kosong
 Tidak ada riwayat
-Antrian kosong
+Semua antrian kosong
+Total dilayani: 0
+Rata-rata prioritas: 0.00
+Pasien IGD dilayani: 0
+Pasien Reguler dilayani: 0 

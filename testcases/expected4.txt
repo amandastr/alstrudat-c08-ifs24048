@@ -1,4 +1,9 @@
-Dilayani: Tono (Prioritas: 1)
-Dilayani: Rudi (Prioritas: 2)
-UNDO: Rudi dikembalikan ke antrian
-Berikutnya: Rudi (Prioritas: 2)
+[IGD] Dilayani: Tono (Prioritas: 1)
+UNDO: Tono dikembalikan ke antrian IGD
+[IGD] Dilayani: Tono (Prioritas: 1)
+[IGD] Dilayani: Rudi (Prioritas: 2)
+Berikutnya [REG]: Sari (Prioritas: 2)
+Total dilayani: 3
+Rata-rata prioritas: 1.33
+Pasien IGD dilayani: 2
+Pasien Reguler dilayani: 1  

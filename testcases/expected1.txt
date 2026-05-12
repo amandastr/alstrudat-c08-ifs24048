@@ -1,3 +1,8 @@
-Berikutnya: Ani (Prioritas: 1)
-Dilayani: Ani (Prioritas: 1)
-Dilayani: Citra (Prioritas: 2)
+Berikutnya [IGD]: Citra (Prioritas: 1)
+[IGD] Dilayani: Citra (Prioritas: 1)
+[IGD] Dilayani: Budi (Prioritas: 3)
+[REG] Dilayani: Ani (Prioritas: 1)
+Total dilayani: 3
+Rata-rata prioritas: 1.67
+Pasien IGD dilayani: 2
+Pasien Reguler dilayani: 1 

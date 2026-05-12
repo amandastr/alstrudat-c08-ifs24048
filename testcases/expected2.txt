@@ -1,4 +1,11 @@
-Dilayani: Doni (Prioritas: 2)
-UNDO: Doni dikembalikan ke antrian
-Berikutnya: Doni (Prioritas: 2)
-Dilayani: Doni (Prioritas: 2)
+[REG] Dilayani: Doni (Prioritas: 2)
+UNDO: Doni dikembalikan ke antrian Reguler
+Total dilayani: 1
+Rata-rata prioritas: 2.00
+Pasien IGD dilayani: 0
+Pasien Reguler dilayani: 1
+[REG] Dilayani: Doni (Prioritas: 2)
+Total dilayani: 2
+Rata-rata prioritas: 2.00
+Pasien IGD dilayani: 0
+Pasien Reguler dilayani: 2 

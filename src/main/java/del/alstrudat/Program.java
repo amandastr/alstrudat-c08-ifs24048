@@ -109,5 +109,4 @@ public class Program {
         System.out.println("Pasien IGD dilayani: " + igdDilayani);
         System.out.println("Pasien Reguler dilayani: " + regDilayani);
     }
-    
 }

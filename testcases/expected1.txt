@@ -5,4 +5,4 @@ Berikutnya [IGD]: Citra (Prioritas: 1)
 Total dilayani: 3
 Rata-rata prioritas: 1.67
 Pasien IGD dilayani: 2
-Pasien Reguler dilayani: 1 
+Pasien Reguler dilayani: 1

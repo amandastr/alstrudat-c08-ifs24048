@@ -8,4 +8,4 @@ Pasien Reguler dilayani: 1
 Total dilayani: 2
 Rata-rata prioritas: 2.00
 Pasien IGD dilayani: 0
-Pasien Reguler dilayani: 2 
+Pasien Reguler dilayani: 2

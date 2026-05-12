@@ -1,4 +1,4 @@
-# alstrudat-c01-username
+# alstrudat-c08-ifs24048
 
 ## Description
 Sebuah rumah sakit memiliki dua jenis antrian pasien:
@@ -61,5 +61,3 @@ Catatan STATS:
 
 ## Run
 `mvn exec:java`
-
-
